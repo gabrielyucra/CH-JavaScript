@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(27, 93, 214);
+}
+
+.botones{
+    display: flex;
+    justify-content: space-between;
+}
+.botones button{
+    margin: 5px;
+}
+
+.btn-primary{
+    border: black 2px solid;
+}
+
+.modo-oscuro{
+    background-color: rgb(43, 41, 38);
+    color: white;
+}
